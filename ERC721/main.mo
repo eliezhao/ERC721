@@ -107,8 +107,3 @@ actor ERC721 {
     }
 
 };
-
-
-    public 
-
-};
